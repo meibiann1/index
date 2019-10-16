@@ -4,7 +4,7 @@ description: 这是一个二级标题
 
 # 初始化标题
 
-## 文字内容
+外联地址 [https://76526211.gitbook.io/reciter/](https://76526211.gitbook.io/reciter/)
 
 ```text
 个话费国防生的

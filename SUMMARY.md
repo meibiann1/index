@@ -9,3 +9,5 @@ pull
 没有迟缓 是vscode 设置好像有问题
 
 每次 手动 进行一下 git push 吗？
+
+vscode
